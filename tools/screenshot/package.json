@@ -1,0 +1,10 @@
+{
+  "name": "atelier-screenshot",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Puppeteer screenshot utility for Claude Code design feedback loop",
+  "main": "screenshot.js",
+  "dependencies": {
+    "puppeteer": "^23.11.1"
+  }
+}

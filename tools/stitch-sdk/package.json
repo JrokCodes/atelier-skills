@@ -1,0 +1,13 @@
+{
+  "name": "stitch-sdk-utility",
+  "version": "1.0.0",
+  "description": "Atelier wrapper for the official Google Stitch SDK",
+  "type": "module",
+  "scripts": {
+    "validate": "node validate.js",
+    "proxy": "node proxy.js"
+  },
+  "dependencies": {
+    "@google/stitch-sdk": "^0.0.3"
+  }
+}
